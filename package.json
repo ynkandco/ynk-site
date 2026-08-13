@@ -1,0 +1,8 @@
+{
+  "name": "ynk-and-co",
+  "version": "1.0.0",
+  "description": "Y N K & CO. Chartered Accountants website",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
